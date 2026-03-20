@@ -1,9 +1,8 @@
 # Web Storage Assignment Reflection
 
 **Names:** Mika Rurangwa, Effiong Uyo
-**Date:** 19/03/2026
 
----
+**Date:** 19/03/2026
 
 ## 1. Resource Exploration Notes
 
